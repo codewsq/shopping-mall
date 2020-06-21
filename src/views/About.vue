@@ -1,5 +1,15 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h2>关于</h2>
   </div>
 </template>
+
+<script>
+  export default {
+    name: 'about',
+  }
+</script>
+
+<style>
+
+</style>
